@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EsPrimo</string>
+    <string name="es_Primo">¿Es Primo?</string>
+    <string name="verificar">Verificar</string>
+    <string name="valor_requerido">Se requiere Numero</string>
+    <string name="ingresa_valor">Ingresa un Numero</string>
+    <string name="inicio_respuesta">El numero \</string>
+    <string name="si_primo">\ si es primo</string>
+    <string name="no_primo">\ no es primo</string>
+    <string name="hint">Numero</string>
+
+</resources>
